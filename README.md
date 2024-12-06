@@ -1,2 +1,2 @@
 # git_h_1
-H1 - Git hack individual 
+H1 - Enviar un commit al repositorio remoto.
